@@ -1,7 +1,7 @@
 # CS340
 **These are projects I have done in my Algorithms and Data structures course**
 
-Go to the different branches to see the indivdual projects I have done
+Go to the different folders to see the indivdual projects I have done
 
 - project-1 = Time complexity of heap sort vs insertion sort
 - project-2 = priority queue

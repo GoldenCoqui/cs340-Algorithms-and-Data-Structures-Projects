@@ -1,0 +1,102 @@
+Last Run: Sep  5 2023, 22:20:50
+
+
+Random Array Size for Insertion Sort: 100000
+Milliseconds it took for Insertion Sort: 16960
+
+**************************END OF RANDOM 100000 ARRAY*********************************************
+
+Sorted Array Size for Insertion Sort: 100000
+Milliseconds it took for Insertion Sort: 0
+
+**************************END OF SORT 100000 ARRAY*********************************************
+
+Random Array Size for Heap Sort: 100000
+Milliseconds it took for Heap Sort: 46
+
+**************************END OF RANDOM 100000 ARRAY*********************************************
+
+Sorted Array Size for Heap Sort: 100000
+Milliseconds it took for Heap Sort: 42
+
+**************************END OF SORTED 100000 ARRAY*********************************************
+
+Random Array Size for Insertion Sort: 200000
+Milliseconds it took for Insertion Sort: 66534
+
+**************************END OF RANDOM 200000 ARRAY*********************************************
+
+Sorted Array Size for Insertion Sort: 200000
+Milliseconds it took for Insertion Sort: 1
+
+**************************END OF SORT 200000 ARRAY*********************************************
+
+Random Array Size for Heap Sort: 200000
+Milliseconds it took for Heap Sort: 96
+
+**************************END OF RANDOM 200000 ARRAY*********************************************
+
+Sorted Array Size for Heap Sort: 200000
+Milliseconds it took for Heap Sort: 95
+
+**************************END OF SORTED 200000 ARRAY*********************************************
+
+Random Array Size for Insertion Sort: 300000
+Milliseconds it took for Insertion Sort: 149963
+
+**************************END OF RANDOM 300000 ARRAY*********************************************
+
+Sorted Array Size for Insertion Sort: 300000
+Milliseconds it took for Insertion Sort: 2
+
+**************************END OF SORT 300000 ARRAY*********************************************
+
+Random Array Size for Heap Sort: 300000
+Milliseconds it took for Heap Sort: 147
+
+**************************END OF RANDOM 300000 ARRAY*********************************************
+
+Sorted Array Size for Heap Sort: 300000
+Milliseconds it took for Heap Sort: 147
+
+**************************END OF SORTED 300000 ARRAY*********************************************
+
+Random Array Size for Insertion Sort: 400000
+Milliseconds it took for Insertion Sort: 253297
+
+**************************END OF RANDOM 400000 ARRAY*********************************************
+
+Sorted Array Size for Insertion Sort: 400000
+Milliseconds it took for Insertion Sort: 3
+
+**************************END OF SORT 400000 ARRAY*********************************************
+
+Random Array Size for Heap Sort: 400000
+Milliseconds it took for Heap Sort: 194
+
+**************************END OF RANDOM 400000 ARRAY*********************************************
+
+Sorted Array Size for Heap Sort: 400000
+Milliseconds it took for Heap Sort: 193
+
+**************************END OF SORTED 400000 ARRAY*********************************************
+
+Random Array Size for Insertion Sort: 500000
+Milliseconds it took for Insertion Sort: 410105
+
+**************************END OF RANDOM 500000 ARRAY*********************************************
+
+Sorted Array Size for Insertion Sort: 500000
+Milliseconds it took for Insertion Sort: 4
+
+**************************END OF SORT 500000 ARRAY*********************************************
+
+Random Array Size for Heap Sort: 500000
+Milliseconds it took for Heap Sort: 257
+
+**************************END OF RANDOM 500000 ARRAY*********************************************
+
+Sorted Array Size for Heap Sort: 500000
+Milliseconds it took for Heap Sort: 252
+
+**************************END OF SORTED 500000 ARRAY*********************************************
